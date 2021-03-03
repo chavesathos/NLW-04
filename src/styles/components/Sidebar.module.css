@@ -1,0 +1,64 @@
+.sidebar {
+  position: absolute;
+  width: 112px;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+  mix-blend-mode: normal;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.perfil {
+  top: 130px;
+}
+
+.notice {
+  top: 202px;
+}
+
+.saude {
+  top: 278px;
+}
+
+.houseClick {
+  top: 350px;
+}
+
+.house {
+  top: 350px;
+}
+
+.reanking {
+  top: 422px;
+}
+
+.image {
+  position: absolute;
+  left: 28.57%;
+  right: 28.57%;
+  top: 3.9%;
+  bottom: 90.98%;
+}
+
+.lupa {
+  top: 494px;
+}
+
+.heat {
+  top: 566px;
+}
+
+.head {
+  top: 638px;
+}
+
+.calculadora {
+  top: 710px;
+}
+
+.exit {
+  top: 782px;
+}
+
