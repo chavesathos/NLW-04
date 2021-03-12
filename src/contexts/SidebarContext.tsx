@@ -21,15 +21,8 @@ export function CountdownProvider({ children }: SidebarProviderProps) {
     const [startHome] = useState(false);
 
     function startSidebar() {
-        isActive(true);
+
       }
 
-      return (
-        <SidebarContext.Provider value={{
-            startHome,
-            isActive,
-        }}>
-            { children }
-        </SidebarContext.Provider>
-    )
+      return startSidebar;
 };
